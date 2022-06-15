@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fitHeavyTail"]
+	path = fitHeavyTail
+	url = https://github.com/dppalomar/fitheavytail
+	shallow = true
+	registered = true
+[submodule "imputeFin"]
+	path = imputeFin
+	url = https://github.com/dppalomar/imputefin
+	shallow = true
+	registered = true
+[submodule "portfolioBacktest"]
+	path = portfolioBacktest
+	url = https://github.com/dppalomar/portfoliobacktest
+	shallow = true
+	registered = true
+[submodule "riskParityPortfolio"]
+	path = riskParityPortfolio
+	url = https://github.com/dppalomar/riskparityportfolio
+	shallow = true
+	registered = true
+[submodule "sparseEigen"]
+	path = sparseEigen
+	url = https://github.com/dppalomar/sparseeigen
+	shallow = true
+	registered = true
+[submodule "sparseIndexTracking"]
+	path = sparseIndexTracking
+	url = https://github.com/dppalomar/sparseindextracking
+	shallow = true
+	registered = true
+[submodule "spectralGraphTopology"]
+	path = spectralGraphTopology
+	url = https://github.com/dppalomar/spectralgraphtopology
+	shallow = true
+	registered = true

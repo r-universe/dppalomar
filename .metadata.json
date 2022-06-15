@@ -1,0 +1,30 @@
+[
+  {
+    "package": "fitHeavyTail",
+    "oncran": true
+  },
+  {
+    "package": "imputeFin",
+    "oncran": true
+  },
+  {
+    "package": "portfolioBacktest",
+    "oncran": true
+  },
+  {
+    "package": "riskParityPortfolio",
+    "oncran": true
+  },
+  {
+    "package": "sparseEigen",
+    "oncran": true
+  },
+  {
+    "package": "sparseIndexTracking",
+    "oncran": true
+  },
+  {
+    "package": "spectralGraphTopology",
+    "oncran": true
+  }
+]
