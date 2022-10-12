@@ -8,6 +8,11 @@
 	url = https://github.com/dppalomar/fitheavytail
 	shallow = true
 	registered = true
+[submodule "highOrderPortfolios"]
+	path = highOrderPortfolios
+	url = https://github.com/dppalomar/highorderportfolios
+	shallow = true
+	registered = true
 [submodule "imputeFin"]
 	path = imputeFin
 	url = https://github.com/dppalomar/imputefin
