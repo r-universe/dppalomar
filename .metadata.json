@@ -1,26 +1,10 @@
 [
   {
+    "package": "spectralGraphTopology",
+    "oncran": true
+  },
+  {
     "package": "fitHeavyTail",
-    "oncran": true
-  },
-  {
-    "package": "highOrderPortfolios",
-    "oncran": true
-  },
-  {
-    "package": "imputeFin",
-    "oncran": true
-  },
-  {
-    "package": "portfolioBacktest",
-    "oncran": true
-  },
-  {
-    "package": "riskParityPortfolio",
-    "oncran": true
-  },
-  {
-    "package": "sparseEigen",
     "oncran": true
   },
   {
@@ -28,7 +12,23 @@
     "oncran": true
   },
   {
-    "package": "spectralGraphTopology",
+    "package": "highOrderPortfolios",
+    "oncran": true
+  },
+  {
+    "package": "riskParityPortfolio",
+    "oncran": true
+  },
+  {
+    "package": "portfolioBacktest",
+    "oncran": true
+  },
+  {
+    "package": "sparseEigen",
+    "oncran": true
+  },
+  {
+    "package": "imputeFin",
     "oncran": true
   }
 ]
