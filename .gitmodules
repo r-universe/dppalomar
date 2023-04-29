@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fitHeavyTail"]
-	path = fitHeavyTail
-	url = https://github.com/dppalomar/fitheavytail
-	shallow = true
-	registered = true
 [submodule "highOrderPortfolios"]
 	path = highOrderPortfolios
 	url = https://github.com/dppalomar/highorderportfolios
