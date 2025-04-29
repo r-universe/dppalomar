@@ -20,6 +20,3 @@
 [submodule "sparseIndexTracking"]
 	path = sparseIndexTracking
 	url = https://github.com/dppalomar/sparseindextracking
-[submodule "spectralGraphTopology"]
-	path = spectralGraphTopology
-	url = https://github.com/dppalomar/spectralgraphtopology
